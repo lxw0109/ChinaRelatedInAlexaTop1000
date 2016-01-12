@@ -1,105 +1,110 @@
-Tue, 12 Jan 2016 10:36:50 getContent.py[line:35] WARNING http://www.pixnet.net, Exception:[Errno 104] Connection reset by peer
-Tue, 12 Jan 2016 10:36:50 getContent.py[line:35] WARNING http://www.wordpress.com, Exception:[Errno 104] Connection reset by peer
-Tue, 12 Jan 2016 10:36:50 getContent.py[line:35] WARNING http://www.51.la, Exception:'utf-8' codec can't decode byte 0xc3 in position 281: invalid continuation byte
-Tue, 12 Jan 2016 10:36:50 getContent.py[line:35] WARNING http://www.zol.com.cn, Exception:'utf-8' codec can't decode byte 0xd6 in position 40: invalid continuation byte
-Tue, 12 Jan 2016 10:36:50 getContent.py[line:35] WARNING http://www.qq.com, Exception:'utf-8' codec can't decode byte 0x8b in position 1: invalid start byte
-Tue, 12 Jan 2016 10:36:50 getContent.py[line:35] WARNING http://www.blog.jp, Exception:[Errno 104] Connection reset by peer
-Tue, 12 Jan 2016 10:36:50 getContent.py[line:35] WARNING http://www.doorblog.jp, Exception:[Errno 104] Connection reset by peer
-Tue, 12 Jan 2016 10:36:50 getContent.py[line:35] WARNING http://www.yesky.com, Exception:'utf-8' codec can't decode byte 0xcc in position 211: invalid continuation byte
-Tue, 12 Jan 2016 10:36:50 getContent.py[line:35] WARNING http://www.weibo.com, Exception:'utf-8' codec can't decode byte 0xca in position 319: invalid continuation byte
-Tue, 12 Jan 2016 10:36:50 getContent.py[line:35] WARNING http://www.fc2.com, Exception:[Errno 104] Connection reset by peer
-Tue, 12 Jan 2016 10:36:50 getContent.py[line:35] WARNING http://www.files.wordpress.com, Exception:[Errno 104] Connection reset by peer
-Tue, 12 Jan 2016 10:36:50 getContent.py[line:35] WARNING http://www.udn.com, Exception:[Errno 104] Connection reset by peer
-Tue, 12 Jan 2016 10:36:50 getContent.py[line:35] WARNING http://www.slideshare.net, Exception:[Errno 104] Connection reset by peer
-Tue, 12 Jan 2016 10:36:50 getContent.py[line:35] WARNING http://www.pornhub.com, Exception:[Errno 104] Connection reset by peer
-Tue, 12 Jan 2016 10:36:50 getContent.py[line:35] WARNING http://www.txxx.com, Exception:[Errno 104] Connection reset by peer
-Tue, 12 Jan 2016 10:36:50 getContent.py[line:35] WARNING http://www.youporn.com, Exception:[Errno 104] Connection reset by peer
-Tue, 12 Jan 2016 10:36:50 getContent.py[line:35] WARNING http://www.soundcloud.com, Exception:[Errno 104] Connection reset by peer
-Tue, 12 Jan 2016 10:36:50 getContent.py[line:35] WARNING http://www.t.co, Exception:HTTP Error 404: Not Found
-Tue, 12 Jan 2016 10:36:50 getContent.py[line:35] WARNING http://www.github.io, Exception:HTTP Error 404: Not Found
-Tue, 12 Jan 2016 10:36:50 getContent.py[line:35] WARNING http://www.hdfcbank.com, Exception:HTTP Error 503: Service Temporarily Unavailable
-Tue, 12 Jan 2016 10:36:50 getContent.py[line:35] WARNING http://www.etsy.com, Exception:<urlopen error [Errno 104] Connection reset by peer>
-Tue, 12 Jan 2016 10:36:51 getContent.py[line:35] WARNING http://www.loading-delivery2.com, Exception:HTTP Error 404: Not Found
-Tue, 12 Jan 2016 10:36:51 getContent.py[line:35] WARNING http://www.r10.net, Exception:HTTP Error 403: Forbidden
-Tue, 12 Jan 2016 10:36:51 getContent.py[line:35] WARNING http://www.rakuten.co.jp, Exception:'utf-8' codec can't decode byte 0xa1 in position 687: invalid start byte
-Tue, 12 Jan 2016 10:36:51 getContent.py[line:35] WARNING http://www.naukri.com, Exception:HTTP Error 412: Precondition Failed
-Tue, 12 Jan 2016 10:36:51 getContent.py[line:35] WARNING http://www.jd.com, Exception:'utf-8' codec can't decode byte 0xbe in position 60: invalid start byte
-Tue, 12 Jan 2016 10:36:51 getContent.py[line:35] WARNING http://www.play1topgame.com, Exception:<urlopen error [Errno -2] Name or service not known>
-Tue, 12 Jan 2016 10:36:51 getContent.py[line:35] WARNING http://www.sohu.com, Exception:'utf-8' codec can't decode byte 0xcb in position 370: invalid continuation byte
-Tue, 12 Jan 2016 10:36:51 getContent.py[line:35] WARNING http://www.orange.fr, Exception:'utf-8' codec can't decode byte 0xe9 in position 285: invalid continuation byte
-Tue, 12 Jan 2016 10:36:51 getContent.py[line:35] WARNING http://www.kat.cr, Exception:'utf-8' codec can't decode byte 0x8b in position 1: invalid start byte
-Tue, 12 Jan 2016 10:36:51 getContent.py[line:35] WARNING http://www.163.com, Exception:'utf-8' codec can't decode byte 0xcd in position 125: invalid continuation byte
-Tue, 12 Jan 2016 10:36:51 getContent.py[line:35] WARNING http://www.youth.cn, Exception:'utf-8' codec can't decode byte 0xd6 in position 303: invalid continuation byte
-Tue, 12 Jan 2016 10:36:52 getContent.py[line:35] WARNING http://www.vk.com, Exception:'utf-8' codec can't decode byte 0xd0 in position 11316: invalid continuation byte
-Tue, 12 Jan 2016 10:36:52 getContent.py[line:35] WARNING http://www.kakaku.com, Exception:'utf-8' codec can't decode byte 0x89 in position 539: invalid start byte
-Tue, 12 Jan 2016 10:36:52 getContent.py[line:35] WARNING http://www.discovercard.com, Exception:'utf-8' codec can't decode byte 0xa0 in position 79002: invalid start byte
-Tue, 12 Jan 2016 10:36:52 getContent.py[line:35] WARNING http://www.citi.com, Exception:'utf-8' codec can't decode byte 0xae in position 1662: invalid start byte
-Tue, 12 Jan 2016 10:36:53 getContent.py[line:35] WARNING http://www.espn.go.com, Exception:'utf-8' codec can't decode byte 0xf3 in position 59193: invalid continuation byte
-Tue, 12 Jan 2016 10:36:54 getContent.py[line:35] WARNING http://www.secureserver.net, Exception:HTTP Error 404: Not Found
-Tue, 12 Jan 2016 10:36:55 getContent.py[line:35] WARNING http://www.caijing.com.cn, Exception:'utf-8' codec can't decode byte 0x8b in position 1: invalid start byte
-Tue, 12 Jan 2016 10:36:55 getContent.py[line:35] WARNING http://www.snapdeal.com, Exception:HTTP Error 403: Forbidden
-Tue, 12 Jan 2016 10:36:55 getContent.py[line:35] WARNING http://www.homedepot.com, Exception:HTTP Error 403: Forbidden
-Tue, 12 Jan 2016 10:36:55 getContent.py[line:35] WARNING http://www.redtube.com, Exception:[Errno 104] Connection reset by peer
-Tue, 12 Jan 2016 10:36:55 getContent.py[line:35] WARNING http://www.akamaihd.net, Exception:<urlopen error [Errno -2] Name or service not known>
-Tue, 12 Jan 2016 10:36:55 getContent.py[line:35] WARNING http://www.tradeadexchange.com, Exception:[Errno 104] Connection reset by peer
-Tue, 12 Jan 2016 10:36:57 getContent.py[line:35] WARNING http://www.macys.com, Exception:HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+Tue, 12 Jan 2016 16:29:58 getContent.py[line:36] WARNING http://www.wordpress.com, Exception:[Errno 104] Connection reset by peer
+Tue, 12 Jan 2016 16:29:59 getContent.py[line:36] WARNING http://www.pixnet.net, Exception:[Errno 104] Connection reset by peer
+Tue, 12 Jan 2016 16:29:59 getContent.py[line:36] WARNING http://www.zol.com.cn, Exception:'utf-8' codec can't decode byte 0xd6 in position 40: invalid continuation byte
+Tue, 12 Jan 2016 16:29:59 getContent.py[line:36] WARNING http://www.snapdeal.com, Exception:HTTP Error 403: Forbidden
+Tue, 12 Jan 2016 16:29:59 getContent.py[line:36] WARNING http://www.blog.jp, Exception:[Errno 104] Connection reset by peer
+Tue, 12 Jan 2016 16:29:59 getContent.py[line:36] WARNING http://www.qq.com, Exception:'utf-8' codec can't decode byte 0x8b in position 1: invalid start byte
+Tue, 12 Jan 2016 16:29:59 getContent.py[line:36] WARNING http://www.doorblog.jp, Exception:<urlopen error [Errno 104] Connection reset by peer>
+Tue, 12 Jan 2016 16:29:59 getContent.py[line:36] WARNING http://www.pornhub.com, Exception:[Errno 104] Connection reset by peer
+Tue, 12 Jan 2016 16:29:59 getContent.py[line:36] WARNING http://www.sohu.com, Exception:'utf-8' codec can't decode byte 0xcb in position 370: invalid continuation byte
+Tue, 12 Jan 2016 16:29:59 getContent.py[line:36] WARNING http://www.youporn.com, Exception:[Errno 104] Connection reset by peer
+Tue, 12 Jan 2016 16:29:59 getContent.py[line:36] WARNING http://www.tradeadexchange.com, Exception:[Errno 104] Connection reset by peer
+Tue, 12 Jan 2016 16:29:59 getContent.py[line:36] WARNING http://www.txxx.com, Exception:[Errno 104] Connection reset by peer
+Tue, 12 Jan 2016 16:29:59 getContent.py[line:36] WARNING http://www.t.co, Exception:HTTP Error 404: Not Found
+Tue, 12 Jan 2016 16:29:59 getContent.py[line:36] WARNING http://www.files.wordpress.com, Exception:[Errno 104] Connection reset by peer
+Tue, 12 Jan 2016 16:29:59 getContent.py[line:36] WARNING http://www.github.io, Exception:HTTP Error 404: Not Found
+Tue, 12 Jan 2016 16:29:59 getContent.py[line:36] WARNING http://www.detail.tmall.com, Exception:<urlopen error [Errno -2] Name or service not known>
+Tue, 12 Jan 2016 16:29:59 getContent.py[line:36] WARNING http://www.homedepot.com, Exception:HTTP Error 403: Forbidden
+Tue, 12 Jan 2016 16:29:59 getContent.py[line:36] WARNING http://www.soundcloud.com, Exception:[Errno 104] Connection reset by peer
+Tue, 12 Jan 2016 16:29:59 getContent.py[line:36] WARNING http://www.loading-delivery2.com, Exception:HTTP Error 404: Not Found
+Tue, 12 Jan 2016 16:29:59 getContent.py[line:36] WARNING http://www.etsy.com, Exception:<urlopen error [Errno 104] Connection reset by peer>
+Tue, 12 Jan 2016 16:29:59 getContent.py[line:36] WARNING http://www.xhamster.com, Exception:[Errno 104] Connection reset by peer
+Tue, 12 Jan 2016 16:29:59 getContent.py[line:36] WARNING http://www.orange.fr, Exception:'utf-8' codec can't decode byte 0xe9 in position 285: invalid continuation byte
+Tue, 12 Jan 2016 16:29:59 getContent.py[line:36] WARNING http://www.kat.cr, Exception:'utf-8' codec can't decode byte 0x8b in position 1: invalid start byte
+Tue, 12 Jan 2016 16:30:00 getContent.py[line:36] WARNING http://www.ebay.co.uk, Exception:IncompleteRead(167328 bytes read)
+Tue, 12 Jan 2016 16:30:00 getContent.py[line:36] WARNING http://www.vk.com, Exception:'utf-8' codec can't decode byte 0xd0 in position 11317: invalid continuation byte
+Tue, 12 Jan 2016 16:30:00 getContent.py[line:36] WARNING http://www.macys.com, Exception:HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
 The last 30x error message was:
 Moved Temporarily
-Tue, 12 Jan 2016 10:37:00 getContent.py[line:35] WARNING http://www.bp.blogspot.com, Exception:<urlopen error [Errno -2] Name or service not known>
-Tue, 12 Jan 2016 10:37:01 getContent.py[line:35] WARNING http://www.leboncoin.fr, Exception:'utf-8' codec can't decode byte 0xe9 in position 7707: invalid continuation byte
-Tue, 12 Jan 2016 10:37:01 getContent.py[line:35] WARNING http://www.detail.tmall.com, Exception:<urlopen error [Errno -2] Name or service not known>
-Tue, 12 Jan 2016 10:38:57 getContent.py[line:35] WARNING http://www.google.co.jp, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:38:57 getContent.py[line:35] WARNING http://www.google.co.in, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:38:57 getContent.py[line:35] WARNING http://www.google.com, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:38:57 getContent.py[line:35] WARNING http://www.blogger.com, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:38:57 getContent.py[line:35] WARNING http://www.google.com.hk, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:38:57 getContent.py[line:35] WARNING http://www.flipkart.com, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:38:57 getContent.py[line:35] WARNING http://www.google.it, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:38:57 getContent.py[line:35] WARNING http://www.google.ca, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:38:57 getContent.py[line:35] WARNING http://www.google.com.pk, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:38:57 getContent.py[line:35] WARNING http://www.google.com.eg, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:38:57 getContent.py[line:35] WARNING http://www.google.pl, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:38:57 getContent.py[line:35] WARNING http://www.google.gr, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:38:57 getContent.py[line:35] WARNING http://www.blogspot.in, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:38:57 getContent.py[line:35] WARNING http://www.google.es, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:38:57 getContent.py[line:35] WARNING http://www.google.com.br, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:38:57 getContent.py[line:35] WARNING http://www.google.ru, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:38:57 getContent.py[line:35] WARNING http://www.google.fr, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:38:57 getContent.py[line:35] WARNING http://www.blogspot.com, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:38:57 getContent.py[line:35] WARNING http://www.google.com.pe, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:38:57 getContent.py[line:35] WARNING http://www.googleusercontent.com, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:38:57 getContent.py[line:35] WARNING http://www.google.com.co, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:38:57 getContent.py[line:35] WARNING http://www.google.com.ng, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:38:57 getContent.py[line:35] WARNING http://www.shutterstock.com, Exception:<urlopen error [Errno 110] Connection timed out>
-Tue, 12 Jan 2016 10:38:57 getContent.py[line:35] WARNING http://www.google.com.sa, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:38:57 getContent.py[line:35] WARNING http://www.google.com.ph, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:38:57 getContent.py[line:35] WARNING http://www.google.com.mx, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:38:57 getContent.py[line:35] WARNING http://www.google.co.uk, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:38:57 getContent.py[line:35] WARNING http://www.messenger.com, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:38:57 getContent.py[line:35] WARNING http://www.google.co.th, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:38:58 getContent.py[line:35] WARNING http://www.google.kz, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:38:58 getContent.py[line:35] WARNING http://www.google.com.kw, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:39:02 getContent.py[line:35] WARNING http://www.google.com.tw, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:39:02 getContent.py[line:35] WARNING http://www.gamer.com.tw, Exception:<urlopen error [Errno 110] Connection timed out>
-Tue, 12 Jan 2016 10:39:02 getContent.py[line:35] WARNING http://www.google.co.za, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:39:02 getContent.py[line:35] WARNING http://www.google.be, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:39:02 getContent.py[line:35] WARNING http://www.google.se, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:39:02 getContent.py[line:35] WARNING http://www.fbcdn.net, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:39:02 getContent.py[line:35] WARNING http://www.google.com.sg, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:39:02 getContent.py[line:35] WARNING http://www.google.ae, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:39:02 getContent.py[line:35] WARNING http://www.google.co.kr, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:39:02 getContent.py[line:35] WARNING http://www.google.ro, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:39:03 getContent.py[line:35] WARNING http://www.seznam.cz, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:39:03 getContent.py[line:35] WARNING http://www.google.com.ua, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:39:03 getContent.py[line:35] WARNING http://www.google.fi, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:39:08 getContent.py[line:35] WARNING http://www.google.com.tr, Exception:<urlopen error [Errno 101] Network is unreachable>
-Tue, 12 Jan 2016 10:41:04 getContent.py[line:35] WARNING http://www.twitter.com, Exception:<urlopen error [Errno 110] Connection timed out>
-Tue, 12 Jan 2016 10:41:04 getContent.py[line:35] WARNING http://www.instagram.com, Exception:<urlopen error [Errno 110] Connection timed out>
-Tue, 12 Jan 2016 10:41:04 getContent.py[line:35] WARNING http://www.nytimes.com, Exception:<urlopen error [Errno 110] Connection timed out>
-Tue, 12 Jan 2016 10:41:04 getContent.py[line:35] WARNING http://www.dropbox.com, Exception:<urlopen error [Errno 110] Connection timed out>
-Tue, 12 Jan 2016 10:41:04 getContent.py[line:35] WARNING http://www.youtube.com, Exception:<urlopen error [Errno 110] Connection timed out>
-Tue, 12 Jan 2016 10:41:04 getContent.py[line:35] WARNING http://www.flickr.com, Exception:<urlopen error [Errno 110] Connection timed out>
-Tue, 12 Jan 2016 10:41:04 getContent.py[line:35] WARNING http://www.facebook.com, Exception:<urlopen error [Errno 110] Connection timed out>
-Tue, 12 Jan 2016 10:41:04 getContent.py[line:35] WARNING http://www.dailymotion.com, Exception:<urlopen error [Errno 110] Connection timed out>
-Tue, 12 Jan 2016 10:41:04 getContent.py[line:35] WARNING http://www.torrentz.eu, Exception:<urlopen error [Errno 110] Connection timed out>
-Tue, 12 Jan 2016 10:41:04 getContent.py[line:35] WARNING http://www.archive.org, Exception:<urlopen error [Errno 110] Connection timed out>
+Tue, 12 Jan 2016 16:30:01 getContent.py[line:36] WARNING http://www.weibo.com, Exception:'utf-8' codec can't decode byte 0xca in position 319: invalid continuation byte
+Tue, 12 Jan 2016 16:30:01 getContent.py[line:36] WARNING http://www.jd.com, Exception:'utf-8' codec can't decode byte 0xbe in position 60: invalid start byte
+Tue, 12 Jan 2016 16:30:01 getContent.py[line:36] WARNING http://www.rakuten.co.jp, Exception:'utf-8' codec can't decode byte 0xa1 in position 687: invalid start byte
+Tue, 12 Jan 2016 16:30:01 getContent.py[line:36] WARNING http://www.olx.com.br, Exception:'utf-8' codec can't decode byte 0xfa in position 220: invalid start byte
+Tue, 12 Jan 2016 16:30:02 getContent.py[line:36] WARNING http://www.espn.go.com, Exception:'utf-8' codec can't decode byte 0xf3 in position 128139: invalid continuation byte
+Tue, 12 Jan 2016 16:30:04 getContent.py[line:36] WARNING http://www.slideshare.net, Exception:[Errno 104] Connection reset by peer
+Tue, 12 Jan 2016 16:30:04 getContent.py[line:36] WARNING http://www.51.la, Exception:'utf-8' codec can't decode byte 0xc3 in position 281: invalid continuation byte
+Tue, 12 Jan 2016 16:30:04 getContent.py[line:36] WARNING http://www.bp.blogspot.com, Exception:<urlopen error [Errno -2] Name or service not known>
+Tue, 12 Jan 2016 16:30:04 getContent.py[line:36] WARNING http://www.xvideos.com, Exception:[Errno 104] Connection reset by peer
+Tue, 12 Jan 2016 16:30:04 getContent.py[line:36] WARNING http://www.fc2.com, Exception:[Errno 104] Connection reset by peer
+Tue, 12 Jan 2016 16:30:04 getContent.py[line:36] WARNING http://www.redtube.com, Exception:[Errno 104] Connection reset by peer
+Tue, 12 Jan 2016 16:30:04 getContent.py[line:36] WARNING http://www.akamaihd.net, Exception:<urlopen error [Errno -2] Name or service not known>
+Tue, 12 Jan 2016 16:30:04 getContent.py[line:36] WARNING http://www.udn.com, Exception:[Errno 104] Connection reset by peer
+Tue, 12 Jan 2016 16:30:04 getContent.py[line:36] WARNING http://www.youth.cn, Exception:'utf-8' codec can't decode byte 0xd6 in position 303: invalid continuation byte
+Tue, 12 Jan 2016 16:30:04 getContent.py[line:36] WARNING http://www.yesky.com, Exception:'utf-8' codec can't decode byte 0xcc in position 211: invalid continuation byte
+Tue, 12 Jan 2016 16:30:04 getContent.py[line:36] WARNING http://www.leboncoin.fr, Exception:'utf-8' codec can't decode byte 0xe9 in position 7707: invalid continuation byte
+Tue, 12 Jan 2016 16:30:05 getContent.py[line:36] WARNING http://www.secureserver.net, Exception:HTTP Error 404: Not Found
+Tue, 12 Jan 2016 16:30:05 getContent.py[line:36] WARNING http://www.xywy.com, Exception:'utf-8' codec can't decode byte 0xce in position 303: invalid continuation byte
+Tue, 12 Jan 2016 16:30:05 getContent.py[line:36] WARNING http://www.kakaku.com, Exception:'utf-8' codec can't decode byte 0x89 in position 539: invalid start byte
+Tue, 12 Jan 2016 16:30:06 getContent.py[line:36] WARNING http://www.163.com, Exception:'utf-8' codec can't decode byte 0xcd in position 125: invalid continuation byte
+Tue, 12 Jan 2016 16:30:09 getContent.py[line:36] WARNING http://www.hdfcbank.com, Exception:HTTP Error 503: Service Temporarily Unavailable
+Tue, 12 Jan 2016 16:32:06 getContent.py[line:36] WARNING http://www.google.ru, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:06 getContent.py[line:36] WARNING http://www.google.com.hk, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:06 getContent.py[line:36] WARNING http://www.google.co.th, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:06 getContent.py[line:36] WARNING http://www.google.com.br, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:06 getContent.py[line:36] WARNING http://www.google.com.tw, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:06 getContent.py[line:36] WARNING http://www.google.com.mx, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:06 getContent.py[line:36] WARNING http://www.google.com.tr, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:06 getContent.py[line:36] WARNING http://www.google.co.jp, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:06 getContent.py[line:36] WARNING http://www.blogspot.com, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:06 getContent.py[line:36] WARNING http://www.google.co.id, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:06 getContent.py[line:36] WARNING http://www.google.fr, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:06 getContent.py[line:36] WARNING http://www.google.gr, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:06 getContent.py[line:36] WARNING http://www.google.com, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:06 getContent.py[line:36] WARNING http://www.google.co.za, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:06 getContent.py[line:36] WARNING http://www.google.com.eg, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:06 getContent.py[line:36] WARNING http://www.google.nl, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:06 getContent.py[line:36] WARNING http://www.google.co.uk, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:06 getContent.py[line:36] WARNING http://www.google.pl, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:06 getContent.py[line:36] WARNING http://www.fbcdn.net, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:06 getContent.py[line:36] WARNING http://www.google.at, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:06 getContent.py[line:36] WARNING http://www.google.co.in, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:06 getContent.py[line:36] WARNING http://www.google.hr, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:06 getContent.py[line:36] WARNING http://www.google.com.ar, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:06 getContent.py[line:36] WARNING http://www.alicdn.com, Exception:<urlopen error [Errno 110] Connection timed out>
+Tue, 12 Jan 2016 16:32:11 getContent.py[line:36] WARNING http://www.google.com.ua, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:11 getContent.py[line:36] WARNING http://www.google.ca, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:11 getContent.py[line:36] WARNING http://www.google.com.ph, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:11 getContent.py[line:36] WARNING http://www.blogspot.in, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:11 getContent.py[line:36] WARNING http://www.google.se, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:11 getContent.py[line:36] WARNING http://www.google.com.au, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:11 getContent.py[line:36] WARNING http://www.flipkart.com, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:11 getContent.py[line:36] WARNING http://www.google.com.sa, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:11 getContent.py[line:36] WARNING http://www.google.com.sg, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:11 getContent.py[line:36] WARNING http://www.googleusercontent.com, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:11 getContent.py[line:36] WARNING http://www.shutterstock.com, Exception:<urlopen error [Errno 110] Connection timed out>
+Tue, 12 Jan 2016 16:32:11 getContent.py[line:36] WARNING http://www.google.be, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:11 getContent.py[line:36] WARNING http://www.google.it, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:11 getContent.py[line:36] WARNING http://www.google.ae, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:11 getContent.py[line:36] WARNING http://www.google.co.kr, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:11 getContent.py[line:36] WARNING http://www.gamer.com.tw, Exception:<urlopen error [Errno 110] Connection timed out>
+Tue, 12 Jan 2016 16:32:11 getContent.py[line:36] WARNING http://www.google.ro, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:11 getContent.py[line:36] WARNING http://www.seznam.cz, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:11 getContent.py[line:36] WARNING http://www.google.es, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:11 getContent.py[line:36] WARNING http://www.google.de, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:11 getContent.py[line:36] WARNING http://www.google.com.co, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:11 getContent.py[line:36] WARNING http://www.google.com.kw, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:16 getContent.py[line:36] WARNING http://www.google.com.ng, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:32:16 getContent.py[line:36] WARNING http://www.google.com.pe, Exception:<urlopen error [Errno 101] Network is unreachable>
+Tue, 12 Jan 2016 16:33:30 getContent.py[line:36] WARNING http://www.mail.ru, Exception:IncompleteRead(162777 bytes read, 77357 more expected)
+Tue, 12 Jan 2016 16:34:13 getContent.py[line:36] WARNING http://www.flickr.com, Exception:<urlopen error [Errno 110] Connection timed out>
+Tue, 12 Jan 2016 16:34:13 getContent.py[line:36] WARNING http://www.facebook.com, Exception:<urlopen error [Errno 110] Connection timed out>
+Tue, 12 Jan 2016 16:34:13 getContent.py[line:36] WARNING http://www.dailymotion.com, Exception:<urlopen error [Errno 110] Connection timed out>
+Tue, 12 Jan 2016 16:34:13 getContent.py[line:36] WARNING http://www.nytimes.com, Exception:<urlopen error [Errno 110] Connection timed out>
+Tue, 12 Jan 2016 16:34:13 getContent.py[line:36] WARNING http://www.blogger.com, Exception:<urlopen error [Errno 110] Connection timed out>
+Tue, 12 Jan 2016 16:34:13 getContent.py[line:36] WARNING http://www.twitter.com, Exception:<urlopen error [Errno 110] Connection timed out>
+Tue, 12 Jan 2016 16:34:13 getContent.py[line:36] WARNING http://www.torrentz.eu, Exception:<urlopen error [Errno 110] Connection timed out>
+Tue, 12 Jan 2016 16:34:13 getContent.py[line:36] WARNING http://www.youtube.com, Exception:<urlopen error [Errno 110] Connection timed out>
+Tue, 12 Jan 2016 16:34:13 getContent.py[line:36] WARNING http://www.dropbox.com, Exception:<urlopen error [Errno 110] Connection timed out>
+Tue, 12 Jan 2016 16:34:13 getContent.py[line:36] WARNING http://www.instagram.com, Exception:<urlopen error [Errno 110] Connection timed out>
+Tue, 12 Jan 2016 16:34:13 getContent.py[line:36] WARNING http://www.archive.org, Exception:<urlopen error [Errno 110] Connection timed out>
+Tue, 12 Jan 2016 16:34:13 getContent.py[line:36] WARNING http://www.duckduckgo.com, Exception:<urlopen error [Errno 110] Connection timed out>

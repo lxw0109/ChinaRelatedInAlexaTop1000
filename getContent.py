@@ -11,9 +11,7 @@ import urllib.error
 import threading
 import logging
 from MyThread.myThread import MyThread
-import sys
-reload(sys)
-sys.setdefaultencoding('gbk')
+import chardet
 
 fileLock = threading.RLock()
 
@@ -55,10 +53,12 @@ def monitor(lineList, handle):
     if monitorPrefix(url):
         fileLock.acquire()
         handle.write(content + "Y\n")
+        handle.flush()
         fileLock.release()
     else:
         fileLock.acquire()
         handle.write(content + "N\n")
+        handle.flush()
         fileLock.release()
 
 def logConfig():
