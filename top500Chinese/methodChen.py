@@ -31,7 +31,7 @@ def process(lineList, handle):
 def main():
     logConfig()
     handle = open("./resultChen.csv", "w")
-    f = open("./top5k.csv")
+    f = open("./top10k.csv")
 
     while 1:
         line = f.readline().strip()
