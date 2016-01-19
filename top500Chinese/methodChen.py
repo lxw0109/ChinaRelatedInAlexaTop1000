@@ -7,6 +7,8 @@ import logging
 from html.parser import HTMLParser
 import urllib.request
 import sys
+import time
+import random
 
 def logConfig():
     logging.basicConfig(level=logging.WARNING,
@@ -67,7 +69,7 @@ def main():
     logConfig()
     handle = open("./resultChen.csv", "w")
     #f = open("./top10k.csv")
-    f = open("./2900.csv")
+    f = open("./1.csv")
 
     while 1:
         line = f.readline().strip()
@@ -75,6 +77,7 @@ def main():
             break
         lineList = line.split(",")  #line:  "1,google.com"
         process(lineList, handle)
+        time.sleep(random.randint(1,2))
 
     f.close()
     handle.close()
