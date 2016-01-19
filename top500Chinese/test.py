@@ -5,23 +5,7 @@
 
 import logging
 from html.parser import HTMLParser
-
-import sys
-reload(sys)
-sys.setdefaultencoding("utf-8")
-
-class MyHTMLParser(HTMLParser):
-    def handle_starttag(self, tag, attrs):
-        print("Start tag:", tag)
-        for attr in attrs:
-            print("     attr:", attr)
-
-    def handle_endtag(self, tag):
-        #print("End tag  :", tag)
-        pass
-
-    def handle_data(self, data):
-        print("Data     :", data)
+import urllib.request
 
 def logConfig():
     logging.basicConfig(level=logging.WARNING,
@@ -30,19 +14,53 @@ def logConfig():
             filename='monitor.log',
             filemode='w')
 
+
+class MyHTMLParser(HTMLParser):
+    def __init__(self, lineList, handle):
+        HTMLParser.__init__(self)
+        self.lineList = lineList
+        self.handle = handle
+        self.isH4 = 0
+        self.isRankIn = 0
+        self.isA = 0
+
+    def handle_starttag(self, tag, attrs):
+        if tag == "h4":
+            self.isH4 = 1
+            return
+        if self.isRankIn == 1:
+            if tag == "a":
+                self.isA = 1
+
+    def handle_endtag(self, tag):
+        if tag == "a":
+            self.isA = 0
+        if tag == "h4":
+            self.isH4 = 0
+            self.isRankIn = 0
+
+    def handle_data(self, data):
+        if self.isH4 == 1:
+            if data.strip().lower() == "rank in":
+                self.isRankIn = 1
+                return
+        if self.isA == 1:
+            #self.handle.write("{0},{1},{2}\n".format(self.lineList[0], self.lineList[1], data))
+            print("{0},{1},{2}\n".format(self.lineList[0], self.lineList[1], data))
+
+
 def process(lineList, handle):
     try:
         url = "http://www.alexa.com/siteinfo/" + lineList[1]
-
-        parser = MyHTMLParser()
-        parse.feed(sourceCode)
-
-
-        content = "{0},{1},{2}\n".format(lineList[0], lineList[1], source.find("h4").find("a").text())
-        handle.write(content)
-        handle.flush()
+        headers = {'User-Agent':'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/ 20100101 Firefox/23.0'};
+        req = urllib.request.Request(url=url, headers=headers)
+        sourceCode = urllib.request.urlopen(req).read().decode("utf-8")
     except Exception as e:
         logging.error(lineList[0] + "," + lineList[1] + ": " + str(e))
+    else:
+        parser = MyHTMLParser(lineList, handle)
+        parser.feed(sourceCode)
+
 
 def main():
     line = "1,google.com"
