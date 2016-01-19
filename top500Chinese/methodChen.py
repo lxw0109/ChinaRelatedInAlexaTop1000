@@ -26,12 +26,13 @@ def process(lineList, handle):
         handle.write(content)
         handle.flush()
     except Exception as e:
-        logging.error(lineList[1] + str(e))
+        logging.error(lineList[0] + "," + lineList[1] + ": " + str(e))
 
 def main():
     logConfig()
     handle = open("./resultChen.csv", "w")
-    f = open("./top10k.csv")
+    #f = open("./top10k.csv")
+    f = open("./logFilterResult.csv")
 
     while 1:
         line = f.readline().strip()
