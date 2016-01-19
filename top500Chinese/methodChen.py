@@ -69,7 +69,7 @@ def main():
     logConfig()
     handle = open("./resultChen.csv", "w")
     #f = open("./top10k.csv")
-    f = open("./5.csv")
+    f = open("./9.csv")
 
     while 1:
         line = f.readline().strip()
