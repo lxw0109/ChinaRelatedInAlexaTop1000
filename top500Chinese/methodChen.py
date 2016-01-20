@@ -69,7 +69,8 @@ def main():
     logConfig()
     handle = open("./resultChen.csv", "w")
     #f = open("./top10k.csv")
-    f = open("./6.csv")
+    #f = open("./6.csv")
+    f = open("./notFound.csv")
 
     while 1:
         line = f.readline().strip()
@@ -77,7 +78,7 @@ def main():
             break
         lineList = line.split(",")  #line:  "1,google.com"
         process(lineList, handle)
-        time.sleep(random.randint(1,2))
+        time.sleep(random.randint(3,6))
 
     f.close()
     handle.close()
